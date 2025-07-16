@@ -15,6 +15,8 @@ Going into my third and final year I'm going to study the following modules:
 * CSC364 - Software Testing
 * CSC371 - Advanced OOP
 
+I have an interest in both Cybersecurity and Software Development/Engineering. I explore my interest in Cybersecurity through various other websites such as HackTheBox, HackThisSite and TryHackMe and hope to be able to put some projects on here soon!
+
 # 💻 Tech Stack
 
 * Java
