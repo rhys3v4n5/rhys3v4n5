@@ -2,8 +2,8 @@
 
 I'm Rhys!
 
-* I'm currently a final year BSc Computer Science undergraduate at Swansea University.
-* Based in the United Kingdom.
+* I'm a final year BSc (Hons) Computer Science undergraduate at Swansea University.
+* Based in the United Kingdom, specifically South Wales.
 
 # 📚 Current Study
 
@@ -15,8 +15,6 @@ Going into my third and final year I'm going to study the following modules:
 * CSC364 - Software Testing
 * CSC371 - Advanced OOP
 
-I have an interest in both Cybersecurity and Software Development/Engineering. I explore my interest in Cybersecurity through various other websites such as HackTheBox, HackThisSite and TryHackMe and hope to be able to put some projects on here soon!
-
 # 💻 Tech Stack
 
 * Java
@@ -25,10 +23,11 @@ I have an interest in both Cybersecurity and Software Development/Engineering. I
 * Prolog
 * SQL
 * HTML + CSS
+* PHP, Laravel
 
 # Hobbies
 
-Of course, I love coding and tech, but so does an LLM.
+Of course, I love coding and tech, but so does an LLM (well, probably doesn't feel it but it can do it).
 
 * I'm a passionate football supporter (the ⚽ kind), I've been attending Swansea City home and away since I was young.
 * I'm a gamer, possibly too much of a completionist on some titles. Oops. 🎮
