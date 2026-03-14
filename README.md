@@ -18,9 +18,9 @@ Going into my third and final year I'm going to study the following modules:
 # 💻 Tech Stack
 
 * Java
+* C++
+* C
 * Python
-* Haskell
-* Prolog
 * SQL
 * HTML + CSS
 * PHP, Laravel
