@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4d2e,100:52b788&height=200&section=header&text=Hi,%20I'm%20Rhys&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20at%20Swansea%20University&descSize=20&descAlignY=58&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4d2e,100:52b788&height=200&section=header&text=Hi,%20I'm%20Rhys&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20at%20Swansea%20University&descSize=20&descAlignY=58&descAlign=50" width="100%" />
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rhys3v4n5.rhys3v4n5)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/davidrhysevans)
